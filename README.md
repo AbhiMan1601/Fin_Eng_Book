@@ -1,3 +1,5 @@
-# Statistics and Data Analysis for Financial Engineering with R Examples Book Solutions
-Collection of solution notebooks for problems in Financial Engineering from book Statistics and Data Analysis for Financial Engineering with R Examples.
+# Statistics and Data Analysis in Financial Problems (Using book)
+Collection of solutions to Financial data problems
+List :
+1. Hedge Fund Probability
 
